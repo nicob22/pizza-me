@@ -22,4 +22,4 @@ and than
  python -m SimpleHTTPServer 8000
 ```
 
-Open your favourite browser and type *localost:8000*
+Open your favourite browser and type *localhost:8080*
